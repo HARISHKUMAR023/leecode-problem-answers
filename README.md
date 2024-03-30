@@ -2,7 +2,8 @@
 
 This repository contains both Questions & solutions to LeetCode problems.
 
-<div class="tenor-gif-embed" data-postid="26326564" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/core-keeper-core-keeper-core-keeper-code-ck-code-gif-26326564">Core Keeper Core GIF</a>from <a href="https://tenor.com/search/core+keeper-gifs">Core Keeper GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![CODER GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V2a3YyNGptZmEyczNkdjc0N3ZrMWFoOHVkeHhnZjBhazB2YTYzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif)
+
 ## Structure
 
 Each problem solution is organized into its own directory. Within each directory, you'll find:
