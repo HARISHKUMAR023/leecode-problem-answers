@@ -25,7 +25,7 @@ Output: 23
 Explanation: The subarray [5,4,-1,7,8] has the largest sum 23.
 
 
-```
+``` python
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         l=0
