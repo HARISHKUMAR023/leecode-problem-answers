@@ -1,0 +1,14 @@
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        w = ""
+        
+        for i in s.lower():
+            if 'a' <= i <= 'z' or '0' <= i <= '9':
+                w += i
+                
+        return w == w[::-1]
+
+# Example usage
+solution = Solution()
+print(solution.isPalindrome("A man, a plan, a canal: Panama"))  # Expected output: True
+print(solution.isPalindrome("race a car"))  # Expected output: False
